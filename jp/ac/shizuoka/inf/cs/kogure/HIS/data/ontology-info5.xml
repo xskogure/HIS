@@ -1,0 +1,44 @@
+<OntologyBase name="目的地設定">
+  <ItemInfo name="I:目的地タイプ">
+    <SubtypeInfo name="S:コンビニ">
+      <ItemInfo name="I:コンビニ">
+        <SubtypeInfo name="S:サークルＫ">
+          <AtomInfo name="P:サークルＫ施設名">
+            <Data name="サークルＫ浜松古人見店" />
+            <Data name="サークルＫ浜松篠ケ瀬店" />
+            <Data name="サークルＫ浜松下石田店" />
+            <Data name="サークルＫ富塚店" />
+          </AtomInfo>
+        </SubtypeInfo>
+        <SubtypeInfo name="S:セブンイレブン">
+          <AtomInfo name="P:セブンイレブン施設名">
+            <Data name="セブンイレブン浜松相生店" />
+            <Data name="セブンイレブン浜松大島店" />
+            <Data name="セブンイレブン浜松篠ケ瀬店" />
+            <Data name="セブンイレブン浜松下江町店" />
+          </AtomInfo>
+        </SubtypeInfo>    
+      </ItemInfo>
+    </SubtypeInfo>
+    <SubtypeInfo name="S:ファミレス">
+      <ItemInfo name="I:ファミレス">
+        <SubtypeInfo name="S:サイゼリア">
+          <AtomInfo name="P:サイゼリア施設名">
+            <Data name="サイゼリヤ浜松入野店" />
+            <Data name="サイゼリヤ浜松初生店" />
+            <Data name="サイゼリヤ浜松和合店" />
+            <Data name="サイゼリア浜松城北店" />
+          </AtomInfo>
+        </SubtypeInfo>
+        <SubtypeInfo name="S:ガスト">
+          <AtomInfo name="P:ガスト施設名">
+            <Data name="ガスト浜松インター店" />
+            <Data name="ガスト浜松可美店" />
+            <Data name="ガスト浜松住吉店" />
+            <Data name="ガスト浜松相生店" />
+          </AtomInfo>
+        </SubtypeInfo>
+      </ItemInfo>
+    </SubtypeInfo>
+  </ItemInfo>
+</OntologyBase>

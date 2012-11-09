@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<!DOCTYPE ontologBase [
+  <!ELEMENT ontologyBase (ItemInfo)>
+  <!ELEMENT ItemInfo (SubtypeInfo)+>
+  <!ELEMENT SubtypeInfo (ItemInfo|AtomInfo)+>
+  <!ELEMENT AtomInfo (Data)+>
+  ]>
